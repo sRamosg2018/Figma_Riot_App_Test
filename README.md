@@ -4,7 +4,7 @@ Mi primer proyecto con Figma, donde remodelo la interfaz de la aplicación de Ri
 https://www.figma.com/file/99snTBFIs1MKr12Z9XdTXj/Untitled?node-id=0%3A1
 
 
-Reflexión: 
+## Reflexión: 
 
 Uno de mis primeros pensamientos fue dar una entrada directa a los usuarios hacia un portal de inicio con la cuenta de Riot Games. No tengo los datos, pero imagino que la mayoría de jugadores tienen cuenta previa de Riot Games, y no se registran con Google, Apple o Facebook. Tal vez los juegos de móviles contengan a un vasto grupo de personas que seleccionan estas opciones.
 
